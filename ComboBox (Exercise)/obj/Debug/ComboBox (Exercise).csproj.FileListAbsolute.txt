@@ -1,0 +1,10 @@
+D:\C#\Windows Form\ComboBox (Exercise)\bin\Debug\ComboBox (Exercise).exe.config
+D:\C#\Windows Form\ComboBox (Exercise)\bin\Debug\ComboBox (Exercise).exe
+D:\C#\Windows Form\ComboBox (Exercise)\bin\Debug\ComboBox (Exercise).pdb
+D:\C#\Windows Form\ComboBox (Exercise)\obj\Debug\ComboBox (Exercise).csproj.AssemblyReference.cache
+D:\C#\Windows Form\ComboBox (Exercise)\obj\Debug\ComboBox__Exercise_.Form1.resources
+D:\C#\Windows Form\ComboBox (Exercise)\obj\Debug\ComboBox__Exercise_.Properties.Resources.resources
+D:\C#\Windows Form\ComboBox (Exercise)\obj\Debug\ComboBox (Exercise).csproj.GenerateResource.cache
+D:\C#\Windows Form\ComboBox (Exercise)\obj\Debug\ComboBox (Exercise).csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\ComboBox (Exercise)\obj\Debug\ComboBox (Exercise).exe
+D:\C#\Windows Form\ComboBox (Exercise)\obj\Debug\ComboBox (Exercise).pdb
