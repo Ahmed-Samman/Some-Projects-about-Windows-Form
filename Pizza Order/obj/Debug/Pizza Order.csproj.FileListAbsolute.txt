@@ -1,0 +1,10 @@
+D:\C#\Windows Form\Pizza Order\bin\Debug\Pizza Order.exe.config
+D:\C#\Windows Form\Pizza Order\bin\Debug\Pizza Order.exe
+D:\C#\Windows Form\Pizza Order\bin\Debug\Pizza Order.pdb
+D:\C#\Windows Form\Pizza Order\obj\Debug\Pizza Order.csproj.AssemblyReference.cache
+D:\C#\Windows Form\Pizza Order\obj\Debug\Pizza_Order.Form1.resources
+D:\C#\Windows Form\Pizza Order\obj\Debug\Pizza_Order.Properties.Resources.resources
+D:\C#\Windows Form\Pizza Order\obj\Debug\Pizza Order.csproj.GenerateResource.cache
+D:\C#\Windows Form\Pizza Order\obj\Debug\Pizza Order.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\Pizza Order\obj\Debug\Pizza Order.exe
+D:\C#\Windows Form\Pizza Order\obj\Debug\Pizza Order.pdb
