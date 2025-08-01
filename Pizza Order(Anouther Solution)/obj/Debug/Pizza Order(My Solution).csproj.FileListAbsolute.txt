@@ -1,0 +1,22 @@
+D:\Pizza Order(My Solution)\bin\Debug\Pizza Order(My Solution).exe.config
+D:\Pizza Order(My Solution)\bin\Debug\Pizza Order(My Solution).exe
+D:\Pizza Order(My Solution)\bin\Debug\Pizza Order(My Solution).pdb
+D:\Pizza Order(My Solution)\obj\Debug\Pizza Order(My Solution).csproj.AssemblyReference.cache
+D:\Pizza Order(My Solution)\obj\Debug\Pizza_Order_My_Solution_.Form1.resources
+D:\Pizza Order(My Solution)\obj\Debug\Pizza_Order_My_Solution_.Properties.Resources.resources
+D:\Pizza Order(My Solution)\obj\Debug\Pizza Order(My Solution).csproj.GenerateResource.cache
+D:\Pizza Order(My Solution)\obj\Debug\Pizza Order(My Solution).csproj.CoreCompileInputs.cache
+D:\Pizza Order(My Solution)\obj\Debug\Pizza Order(My Solution).exe
+D:\Pizza Order(My Solution)\obj\Debug\Pizza Order(My Solution).pdb
+D:\Pizza Order(My Solution)\obj\Debug\Pizza_Order_My_Solution_.UserClients.resources
+D:\C#\Windows Form\Pizza Order(My Solution)\bin\Debug\Pizza Order(My Solution).exe.config
+D:\C#\Windows Form\Pizza Order(My Solution)\bin\Debug\Pizza Order(My Solution).exe
+D:\C#\Windows Form\Pizza Order(My Solution)\bin\Debug\Pizza Order(My Solution).pdb
+D:\C#\Windows Form\Pizza Order(My Solution)\obj\Debug\Pizza Order(My Solution).csproj.AssemblyReference.cache
+D:\C#\Windows Form\Pizza Order(My Solution)\obj\Debug\Pizza_Order_My_Solution_.Form1.resources
+D:\C#\Windows Form\Pizza Order(My Solution)\obj\Debug\Pizza_Order_My_Solution_.Properties.Resources.resources
+D:\C#\Windows Form\Pizza Order(My Solution)\obj\Debug\Pizza_Order_My_Solution_.UserClients.resources
+D:\C#\Windows Form\Pizza Order(My Solution)\obj\Debug\Pizza Order(My Solution).csproj.GenerateResource.cache
+D:\C#\Windows Form\Pizza Order(My Solution)\obj\Debug\Pizza Order(My Solution).csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\Pizza Order(My Solution)\obj\Debug\Pizza Order(My Solution).exe
+D:\C#\Windows Form\Pizza Order(My Solution)\obj\Debug\Pizza Order(My Solution).pdb
