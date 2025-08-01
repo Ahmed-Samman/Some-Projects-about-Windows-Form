@@ -1,0 +1,10 @@
+D:\C#\Windows Form\ListView (Employee Management System (English))\bin\Debug\ListView (Employee Management System (English)).exe.config
+D:\C#\Windows Form\ListView (Employee Management System (English))\bin\Debug\ListView (Employee Management System (English)).exe
+D:\C#\Windows Form\ListView (Employee Management System (English))\bin\Debug\ListView (Employee Management System (English)).pdb
+D:\C#\Windows Form\ListView (Employee Management System (English))\obj\Debug\ListView (Employee Management System (English)).csproj.AssemblyReference.cache
+D:\C#\Windows Form\ListView (Employee Management System (English))\obj\Debug\ListView__Employee_Management_System__English__.Form1.resources
+D:\C#\Windows Form\ListView (Employee Management System (English))\obj\Debug\ListView__Employee_Management_System__English__.Properties.Resources.resources
+D:\C#\Windows Form\ListView (Employee Management System (English))\obj\Debug\ListView (Employee Management System (English)).csproj.GenerateResource.cache
+D:\C#\Windows Form\ListView (Employee Management System (English))\obj\Debug\ListView (Employee Management System (English)).csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\ListView (Employee Management System (English))\obj\Debug\ListView (Employee Management System (English)).exe
+D:\C#\Windows Form\ListView (Employee Management System (English))\obj\Debug\ListView (Employee Management System (English)).pdb

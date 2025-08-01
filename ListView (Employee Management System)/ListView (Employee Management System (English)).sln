@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListView (Employee Management System (English))", "ListView (Employee Management System (English)).csproj", "{C7EC7156-611F-494A-9910-0F7D31325C09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7EC7156-611F-494A-9910-0F7D31325C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7EC7156-611F-494A-9910-0F7D31325C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7EC7156-611F-494A-9910-0F7D31325C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7EC7156-611F-494A-9910-0F7D31325C09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BA51B28-202C-45C5-8C8B-307E7B92893B}
+	EndGlobalSection
+EndGlobal
