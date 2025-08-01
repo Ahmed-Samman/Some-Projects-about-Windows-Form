@@ -1,0 +1,10 @@
+D:\C#\Windows Form\Drawing\(Tic-Tac-Toe) Game\bin\Debug\(Tic-Tac-Toe) Game.exe.config
+D:\C#\Windows Form\Drawing\(Tic-Tac-Toe) Game\bin\Debug\(Tic-Tac-Toe) Game.exe
+D:\C#\Windows Form\Drawing\(Tic-Tac-Toe) Game\bin\Debug\(Tic-Tac-Toe) Game.pdb
+D:\C#\Windows Form\Drawing\(Tic-Tac-Toe) Game\obj\Debug\(Tic-Tac-Toe) Game.csproj.AssemblyReference.cache
+D:\C#\Windows Form\Drawing\(Tic-Tac-Toe) Game\obj\Debug\_Tic_Tac_Toe__Game.Form1.resources
+D:\C#\Windows Form\Drawing\(Tic-Tac-Toe) Game\obj\Debug\_Tic_Tac_Toe__Game.Properties.Resources.resources
+D:\C#\Windows Form\Drawing\(Tic-Tac-Toe) Game\obj\Debug\(Tic-Tac-Toe) Game.csproj.GenerateResource.cache
+D:\C#\Windows Form\Drawing\(Tic-Tac-Toe) Game\obj\Debug\(Tic-Tac-Toe) Game.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\Drawing\(Tic-Tac-Toe) Game\obj\Debug\(Tic-Tac-Toe) Game.exe
+D:\C#\Windows Form\Drawing\(Tic-Tac-Toe) Game\obj\Debug\(Tic-Tac-Toe) Game.pdb
