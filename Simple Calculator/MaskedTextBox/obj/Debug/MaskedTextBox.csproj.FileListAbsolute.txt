@@ -1,0 +1,10 @@
+D:\C#\Windows Form\Simple Calculator\MaskedTextBox\bin\Debug\MaskedTextBox.exe.config
+D:\C#\Windows Form\Simple Calculator\MaskedTextBox\bin\Debug\MaskedTextBox.exe
+D:\C#\Windows Form\Simple Calculator\MaskedTextBox\bin\Debug\MaskedTextBox.pdb
+D:\C#\Windows Form\Simple Calculator\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.AssemblyReference.cache
+D:\C#\Windows Form\Simple Calculator\MaskedTextBox\obj\Debug\MaskedTextBox.Form1.resources
+D:\C#\Windows Form\Simple Calculator\MaskedTextBox\obj\Debug\MaskedTextBox.Properties.Resources.resources
+D:\C#\Windows Form\Simple Calculator\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.GenerateResource.cache
+D:\C#\Windows Form\Simple Calculator\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\Simple Calculator\MaskedTextBox\obj\Debug\MaskedTextBox.exe
+D:\C#\Windows Form\Simple Calculator\MaskedTextBox\obj\Debug\MaskedTextBox.pdb
